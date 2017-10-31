@@ -10,4 +10,4 @@ this is new file
 today is good day,yeah!!!
 
 how are you?
-today is 2017.11.1
+
