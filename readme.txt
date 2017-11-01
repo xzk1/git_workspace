@@ -16,3 +16,4 @@ my name is xzk1,now!
 
 123445
 
+this is new file in e:/test/git_workspace
